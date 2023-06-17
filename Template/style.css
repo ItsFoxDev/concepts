@@ -1,0 +1,24 @@
+/* Imports */
+@import url('https://cdn.jsdelivr.net/gh/ItsFoxDev/API/fonts/gilroy/import.css');
+
+/* Phone styling */
+body{
+  background:#32323f;
+  margin:0px;
+}
+app{
+  background:#efefef;
+  display:block;
+  height: 750px;
+  width: 400px;  
+  margin: 50px auto;
+  border-radius:15px;
+}
+
+/* Optional styles */
+app{
+  display:flex;
+  align-content: center;
+  justify-content: center;
+  flex-wrap:wrap;
+}
